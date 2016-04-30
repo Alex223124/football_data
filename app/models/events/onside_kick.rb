@@ -1,0 +1,2 @@
+class OnsideKick < Event
+end

@@ -1,0 +1,2 @@
+class Punt < Event
+end

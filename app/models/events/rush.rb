@@ -1,0 +1,2 @@
+class Rush < Event
+end

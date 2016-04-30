@@ -1,0 +1,2 @@
+class Conversion < Event
+end

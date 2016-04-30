@@ -1,0 +1,2 @@
+class NoPlay < Event
+end

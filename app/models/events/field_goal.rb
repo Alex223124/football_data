@@ -1,0 +1,2 @@
+class FieldGoal < Event
+end

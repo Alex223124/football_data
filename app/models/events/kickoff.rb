@@ -1,0 +1,2 @@
+class Kickoff < Event
+end

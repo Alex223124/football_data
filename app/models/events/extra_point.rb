@@ -1,0 +1,2 @@
+class ExtraPoint < Event
+end
